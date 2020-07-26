@@ -1,0 +1,113 @@
+-- VERSION_5
+-- START DISKCACHE_2
+E:\Softwares\My PC Apps\Selenium Python\Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\LearnPython\com.python.pydev.analysis\v2_indexcache
+stringDemo.StringFormatting|1573293636534717000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringFormatting.py
+collectionsDemo.__init__|1573294163917881000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\__init__.py
+pythonBasicsDemo.Functions|1573293013969108000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Functions.py
+pythonBasicsDemo.Classes&Objects|1573292025860592000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Classes&Objects.py
+pythonBasicsDemo.Conditions|1573292403312181000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Conditions.py
+stringDemo.StringOperations|1573293727406914000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringOperations.py
+collectionsDemo.Dictionaries|1573294517707117000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Dictionaries.py
+pythonBasicsDemo.__init__|1573289541663662000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\__init__.py
+pythonBasicsDemo.BasicOperators|1573289650200870000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\BasicOperators.py
+pythonBasicsDemo.Loops|1573293213631528000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Loops.py
+collectionsDemo.Lists|1573294751170470000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Lists.py
+pythonBasicsDemo.DataTypes|1573292736426234000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\DataTypes.py
+stringDemo.__init__|1573293606217983000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+1=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\BasicOperators.py
+12=pythonBasicsDemo.Functions
+14=pythonBasicsDemo.Classes&Objects
+6=pythonBasicsDemo.Conditions
+8=stringDemo.StringOperations
+23=Vehicle
+24=MyClass
+19=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Dictionaries.py
+20=collectionsDemo.Dictionaries
+9=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringFormatting.py
+17=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Lists.py
+3=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\DataTypes.py
+2=pythonBasicsDemo.BasicOperators
+5=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Conditions.py
+18=collectionsDemo.Lists
+4=pythonBasicsDemo.DataTypes
+10=stringDemo.StringFormatting
+15=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Loops.py
+7=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringOperations.py
+21=MyFourthClass
+22=MyFourthClass.__init__
+26=MyThirdClass
+25=MySecondClass
+11=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Functions.py
+16=pythonBasicsDemo.Loops
+13=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Classes&Objects.py
+-- END DICTIONARY
+-- START TREE 1
+51
+a|3|a!1^1#1*19@a!3^6#1*35@a!5^44#1*51@
+afe|1|afewwords!7^40#1*67@
+age|2|age!5^22#1*51@age!9^9#1*83@
+all|1|all_numbers!1^33#1*19@
+b|3|b!5^45#1*51@b!1^2#1*19@b!3^7#1*35@
+big|1|big_list!1^53#1*19@
+bui|1|build_sentence!11^30#5*98@
+c|2|c!3^8#1*35@c!13^58#1*115@
+car|2|car1!13^90#1*115@car2!13^96#1*115@
+cou|2|count!15^23#1*131@counter!15^46#1*131@
+cub|1|cube!1^16#1*19@
+dat|1|data!9^27#1*83@
+div|1|divide!1^6#1*19@
+eve|1|even_numbers!1^31#1*19@
+fir|1|first_array!5^56#1*51@
+for|1|format_string!9^28#1*83@
+fru|2|fruits!15^36#1*131@fruits!17^37#1*147@
+hel|2|helloworld!1^23#1*19@hello!1^21#1*19@
+lis|2|list_mul_data_type!17^42#1*147@list_benefits!11^27#5*98@
+lot|1|lotsofhellos!1^27#1*19@
+mul|1|multiply!1^5#1*19@
+my_|3|my_function_with_args!11^13#5*98@my_list!17^8#1*147@my_function!11^2#5*98@
+myc|1|MyClass!13^3#7*113@
+myf|2|myfloat!3^24#1*35@MyFourthClass!13^48#7*113@
+myi|1|myint!3^2#1*35@
+myl|2|mylist!9^15#1*83@mylist!17^52#1*147@
+myo|2|myobjectx!13^10#1*115@myobjecty!13^26#1*115@
+mys|2|MySecondClass!13^19#7*113@mystring!3^30#1*35@
+myt|1|MyThirdClass!13^35#7*113@
+nam|4|name_the_benefits_of_functions!11^33#5*98@names!17^74#1*147@name!9^4#1*83@name!5^21#1*51@
+nes|1|nested_list!17^45#1*147@
+num|4|num!5^11#1*51@numbers!17^72#1*147@number!5^54#1*51@num!15^29#1*131@
+odd|1|odd_numbers!1^32#1*19@
+p|1|p!7^6#1*67@
+pho|1|phonebook!19^6#1*163@
+pri|2|printHi!11^7#5*98@primes!15^2#1*131@
+rem|1|remainder!1^7#1*19@
+s|1|s!7^44#1*67@
+sec|3|second_name!17^83#1*147@second_array!5^57#1*51@second_number!5^55#1*51@
+sqr|1|sqre!1^15#1*19@
+str|2|strings!17^73#1*147@str!7^2#1*67@
+sub|1|subtract!1^4#1*19@
+sum|3|sum_two_numbers!11^18#5*98@sum!1^3#1*19@sum!15^30#1*131@
+veh|1|Vehicle!13^81#7*113@
+wor|1|world!1^22#1*19@
+x|4|x!1^38#1*19@x!13^13#1*115@x!3^15#1*35@x!5^3#1*51@
+x_l|1|x_list!1^51#1*19@
+y|3|y!5^36#1*51@y!1^49#1*19@y!3^16#1*35@
+y_l|1|y_list!1^52#1*19@
+you|1|yourlist!17^62#1*147@
+z|1|z!3^17#1*35@
+-- END TREE
+-- START TREE 2
+10
+__i|1|__init__!21&13^51#9*114@
+age|1|age!22&13^53#9*115@
+col|1|color!23&13^84#5*115@
+des|1|description!23&13^86#9*114@
+fun|3|function!24&13^6#9*114@function!25&13^22#9*114@function!26&13^38#9*114@
+kin|1|kind!23&13^83#5*115@
+nam|3|name!21&13^49#5*115@name!22&13^52#9*115@name!23&13^82#5*115@
+sum|1|sum!21&13^55#9*114@
+val|1|value!23&13^85#5*115@
+var|3|variable!24&13^4#5*115@variable!25&13^20#5*115@variable!26&13^36#5*115@
+-- END TREE

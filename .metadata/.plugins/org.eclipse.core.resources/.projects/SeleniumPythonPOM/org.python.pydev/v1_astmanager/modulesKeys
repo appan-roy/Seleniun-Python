@@ -1,0 +1,6 @@
+MODULES_MANAGER_V2
+pages.HomePage|E:\Softwares\My PC Apps\Selenium Python\Workspace\SeleniumPythonPOM\pages\HomePage.py
+pages.LoginPage|E:\Softwares\My PC Apps\Selenium Python\Workspace\SeleniumPythonPOM\pages\LoginPage.py
+pages.__init__|E:\Softwares\My PC Apps\Selenium Python\Workspace\SeleniumPythonPOM\pages\__init__.py
+tests.LoginTest|E:\Softwares\My PC Apps\Selenium Python\Workspace\SeleniumPythonPOM\tests\LoginTest.py
+tests.__init__|E:\Softwares\My PC Apps\Selenium Python\Workspace\SeleniumPythonPOM\tests\__init__.py

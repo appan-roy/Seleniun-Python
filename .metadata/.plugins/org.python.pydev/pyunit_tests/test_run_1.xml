@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="0" failures="0" finished="true" name="Test Run: 1" tests="2" total_time="Finished in: 14.53 secs."/>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py" status="ok" test="GoogleSearch.test_search_Python" time="5.34">
+<stdout/>
+<stderr/>
+</test>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py" status="ok" test="GoogleSearch.test_search_Selenium" time="3.64">
+<stdout/>
+<stderr/>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="LearnSeleniumPython UnitTest.py (1)"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>
