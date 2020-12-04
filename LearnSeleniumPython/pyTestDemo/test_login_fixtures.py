@@ -4,6 +4,7 @@ import pytest
 
 # Naming convention of the python file with PyTest is [test_*.py / *_test.py]
 # Naming convention of the class is [Test*]
+# Naming convention of the method is [test_*]
 
 class TestSample():
     

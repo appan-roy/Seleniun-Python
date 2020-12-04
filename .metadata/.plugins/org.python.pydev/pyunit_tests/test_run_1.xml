@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pydev-testrun version="1.0"?><pydev-testsuite>
-<summary errors="0" failures="0" finished="true" name="Test Run: 1" tests="2" total_time="Finished in: 14.53 secs."/>
-<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py" status="ok" test="GoogleSearch.test_search_Python" time="5.34">
+<summary errors="0" failures="0" finished="true" name="Test Run: 45" tests="6" total_time="Finished in: 27.48 secs."/>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\PytestPOM\Tests\test_LoginPage.py" status="ok" test="Test_Login.test_forgot_pwd_link_visible[chrome]" time="7.28">
+<stdout><![CDATA[
+Looking for [chromedriver 86.0.4240.22 win32] driver in cache 
+File found in cache by path [C:\Users\APPAN\.wdm\drivers\chromedriver\86.0.4240.22\win32\chromedriver.exe]
+]]></stdout>
+<stderr/>
+</test>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\PytestPOM\Tests\test_LoginPage.py" status="ok" test="Test_Login.test_login_page_title[chrome]" time="1.48">
 <stdout/>
 <stderr/>
 </test>
-<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py" status="ok" test="GoogleSearch.test_search_Selenium" time="3.64">
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\PytestPOM\Tests\test_LoginPage.py" status="ok" test="Test_Login.test_login[chrome]" time="8.03">
 <stdout/>
 <stderr/>
 </test>
 <launch mode="run">
 <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<launchConfiguration local="true" path="LearnSeleniumPython UnitTest.py (1)"/>
+<launchConfiguration local="true" path="PytestPOM test_LoginPage.py"/>
 ]]></launch_memento>
 </launch>
 </pydev-testsuite>

@@ -9,7 +9,7 @@ testBrowsersDemo.ChromeTest|1573314685907260000|E:\Softwares\My PC Apps\Selenium
 pyTestDemo.__init__|1573321610439370000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\__init__.py
 webdrivermanagerDemo.__init__|1573315888889066000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\__init__.py
 pyTestDemo.test_login|1573323518104095000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login.py
-pyTestDemo.test_login_fixtures|1573324197395948000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login_fixtures.py
+pyTestDemo.test_login_fixtures|1606803890315237000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login_fixtures.py
 recordingDemo.__init__|1573320696901185000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\recordingDemo\__init__.py
 unitTestDemo.UnitTest|1573320431661834000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py
 unitTestDemo.__init__|1573316913910694000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\__init__.py
@@ -42,7 +42,7 @@ recordingDemo.TestRecording|1573321131984004000|E:\Softwares\My PC Apps\Selenium
 3
 dri|4|driver!1^7#1*19@driver!3^7#1*35@driver!5^5#1*51@driver!7^4#1*67@
 goo|1|GoogleSearch!9^8#7*81@
-tes|5|test_login!11^18#5*98@test_teardown!11^32#5*98@TestSample!13^8#7*113@TestCaseRecording!15^9#7*129@test_setup!11^8#5*98@
+tes|5|test_login!11^18#5*98@test_teardown!11^32#5*98@TestSample!13^9#7*113@TestCaseRecording!15^9#7*129@test_setup!11^8#5*98@
 -- END TREE
 -- START TREE 2
 9
@@ -53,6 +53,6 @@ dri|1|driver!17&15^11#9*131@
 is_|2|is_element_present!18&15^30#9*130@is_alert_present!18&15^35#9*130@
 set|2|setUpClass!19&9^11#9*82@setUp!18&15^10#9*130@
 tea|2|tearDown!18&15^51#9*130@tearDownClass!19&9^42#9*82@
-tes|5|test_search_Selenium!19&9^23#9*82@test_search_Python!19&9^33#9*82@test_setup!20&13^11#9*114@test_login!20&13^28#9*114@test_case_recording!18&15^17#9*130@
+tes|5|test_search_Selenium!19&9^23#9*82@test_search_Python!19&9^33#9*82@test_setup!20&13^12#9*114@test_login!20&13^29#9*114@test_case_recording!18&15^17#9*130@
 ver|1|verificationErrors!17&15^14#9*131@
 -- END TREE

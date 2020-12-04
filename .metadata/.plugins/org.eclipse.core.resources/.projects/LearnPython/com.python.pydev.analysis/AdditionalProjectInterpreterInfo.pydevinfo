@@ -1,113 +1,370 @@
 -- VERSION_5
 -- START DISKCACHE_2
 E:\Softwares\My PC Apps\Selenium Python\Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\LearnPython\com.python.pydev.analysis\v2_indexcache
-stringDemo.StringFormatting|1573293636534717000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringFormatting.py
-collectionsDemo.__init__|1573294163917881000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\__init__.py
-pythonBasicsDemo.Functions|1573293013969108000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Functions.py
-pythonBasicsDemo.Classes&Objects|1573292025860592000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Classes&Objects.py
-pythonBasicsDemo.Conditions|1573292403312181000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Conditions.py
-stringDemo.StringOperations|1573293727406914000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringOperations.py
-collectionsDemo.Dictionaries|1573294517707117000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Dictionaries.py
-pythonBasicsDemo.__init__|1573289541663662000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\__init__.py
-pythonBasicsDemo.BasicOperators|1573289650200870000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\BasicOperators.py
-pythonBasicsDemo.Loops|1573293213631528000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Loops.py
-collectionsDemo.Lists|1573294751170470000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Lists.py
-pythonBasicsDemo.DataTypes|1573292736426234000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\DataTypes.py
-stringDemo.__init__|1573293606217983000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\__init__.py
+Functions.ZipFunction|1606757295160922000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\ZipFunction.py
+Exceptions.CustomException|1606757295107919000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Exceptions\CustomException.py
+Collections.Set|1606757295048916000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\Set.py
+Collections.DuplucateNumInList|1606757295027915000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\DuplucateNumInList.py
+Classes.Abstraction|1606757294969911000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\Abstraction.py
+Collections.ConsecutiveNumInList|1606757295018914000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\ConsecutiveNumInList.py
+Collections.List|1606757295039915000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\List.py
+Collections.MaxMinNumInList|1606757295043916000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\MaxMinNumInList.py
+Loops.PerfectNumber|1606757295201925000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\PerfectNumber.py
+Classes.Abstraction2|1606757294972912000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\Abstraction2.py
+Loops.PrimeNumber|1606757295206925000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\PrimeNumber.py
+Functions.FibonacciSeriesUsingRecursion|1606757295146922000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\FibonacciSeriesUsingRecursion.py
+Functions.FunctionsDemo|1606757295151922000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\FunctionsDemo.py
+Classes.MethodOverriding|1606757294989913000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MethodOverriding.py
+FileHandling.ReadTextFile|1606757295128921000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\FileHandling\ReadTextFile.py
+FileHandling.AppendTextFile|1606757295116920000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\FileHandling\AppendTextFile.py
+Loops.Factorial|1606757295175923000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\Factorial.py
+Functions.LambdaFunction|1606757295154922000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\LambdaFunction.py
+Classes.MethodOverloading|1606757294986912000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MethodOverloading.py
+Collections.BinarySearch|1606757295010914000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\BinarySearch.py
+Loops.ForLoopsDemo|1606757295187924000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\ForLoopsDemo.py
+Classes.ClassesDemo|1606757294977912000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\ClassesDemo.py
+FileHandling.ReadTextFile2|1606757295132921000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\FileHandling\ReadTextFile2.py
+Loops.CoPrime|1606757295171923000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\CoPrime.py
+Classes.Encapsulation|1606757294983912000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\Encapsulation.py
+Pattern.Pattern06|1606757295266928000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern06.py
+Pattern.Pattern07|1606757295271929000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern07.py
+Pattern.Pattern08|1606757295275929000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern08.py
+Pattern.Pattern09|1606757295279929000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern09.py
+Loops.FibonacciSeries|1606757295183924000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\FibonacciSeries.py
+Collections.BubbleSort|1606757295014914000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\BubbleSort.py
+Pattern.Pattern01|1606757295244927000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern01.py
+Pattern.Pattern02|1606757295248927000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern02.py
+Pattern.Pattern03|1606757295252928000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern03.py
+Pattern.Pattern04|1606757295258928000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern04.py
+Pattern.Pattern05|1606757295262928000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern05.py
+Collections.LinearSearch|1606757295035915000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\LinearSearch.py
+Loops.ArmstrongNumber|1606757295167923000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\ArmstrongNumber.py
+FileHandling.WriteTextFile|1606757295136921000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\FileHandling\WriteTextFile.py
+Collections.Tuple|1606757295056916000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\Tuple.py
+Modules.MyModule|1606757295229926000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Modules\MyModule.py
+Functions.FactorialUsingRecursion|1606757295143921000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\FactorialUsingRecursion.py
+Assertions.AssertionDemo|1606757294909908000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Assertions\AssertionDemo.py
+Collections.AvgOfNumbers|1606757295005914000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\AvgOfNumbers.py
+Collections.IdenticalLists|1606757295031915000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\IdenticalLists.py
+Pattern.Pattern17|1606757295311931000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern17.py
+Loops.HCF&LCM|1606757295193924000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\HCF&LCM.py
+Pattern.Pattern18|1606757295315931000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern18.py
+Pattern.Pattern19|1606757295319931000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern19.py
+Loops.FactorsOfNumber|1606757295179923000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\FactorsOfNumber.py
+Loops.SumOfDigitsOfANumber|1606757295210925000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\SumOfDigitsOfANumber.py
+Loops.WhileLoopsDemo|1606757295218926000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\WhileLoopsDemo.py
+Pattern.Pattern10|1606757295283929000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern10.py
+Pattern.Pattern11|1606757295287930000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern11.py
+Pattern.Pattern12|1606757295291930000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern12.py
+Pattern.Pattern13|1606757295295930000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern13.py
+Modules.Driver|1606757295226926000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Modules\Driver.py
+Pattern.Pattern14|1606757295299930000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern14.py
+Pattern.Pattern15|1606757295303931000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern15.py
+Pattern.Pattern16|1606757295307931000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern16.py
+Series.Series02|1606757295369934000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Series\Series02.py
+Series.Series03|1606757295373935000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Series\Series03.py
+Classes.AbstractClassConstructor|1606757294962911000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\AbstractClassConstructor.py
+Classes.MultipleInheritance|1606757294995913000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MultipleInheritance.py
+Classes.ConstructorInheritance|1606757294980912000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\ConstructorInheritance.py
+Collections.Dictionary|1606757295022914000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\Dictionary.py
+Classes.MultiLevelInheritance|1606757294992913000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MultiLevelInheritance.py
+Classes.SingleLevelInheritance|1606757294999913000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\SingleLevelInheritance.py
+Loops.PalindromeNumber|1606757295197924000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\PalindromeNumber.py
+Exceptions.TryWithMultiExcept|1606757295110920000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Exceptions\TryWithMultiExcept.py
+Collections.TransposeOfMatrix|1606757295052916000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\TransposeOfMatrix.py
+Functions.SumOfDigits|1606757295157922000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\SumOfDigits.py
+Pattern.Pattern20|1606757295323932000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern20.py
+Pattern.Pattern21|1606757295328932000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern21.py
+Pattern.Pattern22|1606757295332932000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern22.py
+Pattern.Pattern23|1606757295336932000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern23.py
+Series.Series01|1606757295365934000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Series\Series01.py
+Pattern.Pattern24|1606757295340933000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern24.py
+Loops.TwinPrime|1606757295214925000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\TwinPrime.py
 -- END DISKCACHE
 -- START DICTIONARY
-26
-1=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\BasicOperators.py
-12=pythonBasicsDemo.Functions
-14=pythonBasicsDemo.Classes&Objects
-6=pythonBasicsDemo.Conditions
-8=stringDemo.StringOperations
-23=Vehicle
-24=MyClass
-19=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Dictionaries.py
-20=collectionsDemo.Dictionaries
-9=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringFormatting.py
-17=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\collectionsDemo\Lists.py
-3=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\DataTypes.py
-2=pythonBasicsDemo.BasicOperators
-5=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Conditions.py
-18=collectionsDemo.Lists
-4=pythonBasicsDemo.DataTypes
-10=stringDemo.StringFormatting
-15=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Loops.py
-7=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\stringDemo\StringOperations.py
-21=MyFourthClass
-22=MyFourthClass.__init__
-26=MyThirdClass
-25=MySecondClass
-11=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Functions.py
-16=pythonBasicsDemo.Loops
-13=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\pythonBasicsDemo\Classes&Objects.py
+169
+91=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern19.py
+34=Functions.ZipFunction
+25=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MultiLevelInheritance.py
+130=Exceptions.CustomException
+135=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Exceptions\TryWithMultiExcept.py
+137=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\ArmstrongNumber.py
+107=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern11.py
+11=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\AvgOfNumbers.py
+10=Classes.Abstraction
+38=Collections.ConsecutiveNumInList
+68=Collections.List
+74=Collections.MaxMinNumInList
+132=Loops.PerfectNumber
+64=Loops.PrimeNumber
+87=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern02.py
+24=Functions.FunctionsDemo
+14=Classes.MethodOverriding
+42=FileHandling.ReadTextFile
+155=Child
+146=Functions.LambdaFunction
+41=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\FileHandling\ReadTextFile.py
+28=Classes.ClassesDemo
+62=Loops.CoPrime
+13=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MethodOverriding.py
+67=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\List.py
+101=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern16.py
+143=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\SumOfDigits.py
+23=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\FunctionsDemo.py
+118=Pattern.Pattern06
+131=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\PerfectNumber.py
+122=Pattern.Pattern07
+111=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Series\Series03.py
+114=Pattern.Pattern08
+80=Pattern.Pattern09
+140=Loops.FibonacciSeries
+158=Animal
+35=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\WhileLoopsDemo.py
+72=Collections.BubbleSort
+84=Pattern.Pattern01
+88=Pattern.Pattern02
+124=Pattern.Pattern03
+85=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern22.py
+128=Pattern.Pattern04
+125=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern05.py
+126=Pattern.Pattern05
+141=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\FactorsOfNumber.py
+60=Collections.LinearSearch
+21=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MethodOverloading.py
+147=myClass
+12=Collections.AvgOfNumbers
+95=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern17.py
+40=Collections.IdenticalLists
+159=Tiger
+70=Loops.HCF&LCM
+113=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern08.py
+15=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\SingleLevelInheritance.py
+149=Abs
+134=Loops.SumOfDigitsOfANumber
+71=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\BubbleSort.py
+43=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\FileHandling\ReadTextFile2.py
+166=X
+168=Y
+167=Z
+33=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\ZipFunction.py
+53=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\FibonacciSeriesUsingRecursion.py
+99=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern14.py
+160=Cow
+48=Collections.Dictionary
+154=MyFourthClass.__init__
+1=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\Set.py
+19=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\BinarySearch.py
+136=Exceptions.TryWithMultiExcept
+4=Collections.TransposeOfMatrix
+119=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Series\Series01.py
+144=Functions.SumOfDigits
+55=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\PalindromeNumber.py
+123=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern03.py
+89=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern20.py
+69=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\HCF&LCM.py
+148=myClass.set_emp_id
+27=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\ClassesDemo.py
+65=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\ForLoopsDemo.py
+2=Collections.Set
+39=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\IdenticalLists.py
+103=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern15.py
+46=Collections.DuplucateNumInList
+157=Vehicle
+162=MyClass
+73=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\MaxMinNumInList.py
+6=Classes.Abstraction2
+54=Functions.FibonacciSeriesUsingRecursion
+117=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern06.py
+52=Loops.Factorial
+93=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern21.py
+22=Classes.MethodOverloading
+20=Collections.BinarySearch
+66=Loops.ForLoopsDemo
+44=FileHandling.ReadTextFile2
+49=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\FactorialUsingRecursion.py
+82=Classes.Encapsulation
+105=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern12.py
+3=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\TransposeOfMatrix.py
+169=Abs.__init__
+79=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern09.py
+37=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\ConsecutiveNumInList.py
+145=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Functions\LambdaFunction.py
+5=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\Abstraction2.py
+83=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern01.py
+138=Loops.ArmstrongNumber
+165=classD
+7=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\AbstractClassConstructor.py
+153=classC
+18=Modules.MyModule
+76=Collections.Tuple
+152=classB
+50=Functions.FactorialUsingRecursion
+151=classA
+161=Bird
+31=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\ConstructorInheritance.py
+51=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\Factorial.py
+17=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Modules\MyModule.py
+9=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\Abstraction.py
+109=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern13.py
+96=Pattern.Pattern17
+98=Pattern.Pattern18
+81=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\Encapsulation.py
+92=Pattern.Pattern19
+115=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Series\Series02.py
+142=Loops.FactorsOfNumber
+36=Loops.WhileLoopsDemo
+78=Pattern.Pattern10
+108=Pattern.Pattern11
+106=Pattern.Pattern12
+110=Pattern.Pattern13
+100=Pattern.Pattern14
+104=Pattern.Pattern15
+102=Pattern.Pattern16
+127=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern04.py
+59=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\LinearSearch.py
+97=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern18.py
+116=Series.Series02
+112=Series.Series03
+8=Classes.AbstractClassConstructor
+30=Classes.MultipleInheritance
+32=Classes.ConstructorInheritance
+63=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\PrimeNumber.py
+133=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\SumOfDigitsOfANumber.py
+150=MyFourthClass
+164=MyThirdClass
+16=Classes.SingleLevelInheritance
+26=Classes.MultiLevelInheritance
+77=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern10.py
+156=Base
+29=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Classes\MultipleInheritance.py
+56=Loops.PalindromeNumber
+139=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\FibonacciSeries.py
+121=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Pattern\Pattern07.py
+163=MySecondClass
+45=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\DuplucateNumInList.py
+90=Pattern.Pattern20
+57=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\TwinPrime.py
+75=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\Tuple.py
+94=Pattern.Pattern21
+86=Pattern.Pattern22
+61=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Loops\CoPrime.py
+120=Series.Series01
+47=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Collections\Dictionary.py
+58=Loops.TwinPrime
+129=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPython\Exceptions\CustomException.py
 -- END DICTIONARY
 -- START TREE 1
-51
-a|3|a!1^1#1*19@a!3^6#1*35@a!5^44#1*51@
-afe|1|afewwords!7^40#1*67@
-age|2|age!5^22#1*51@age!9^9#1*83@
-all|1|all_numbers!1^33#1*19@
-b|3|b!5^45#1*51@b!1^2#1*19@b!3^7#1*35@
-big|1|big_list!1^53#1*19@
-bui|1|build_sentence!11^30#5*98@
-c|2|c!3^8#1*35@c!13^58#1*115@
-car|2|car1!13^90#1*115@car2!13^96#1*115@
-cou|2|count!15^23#1*131@counter!15^46#1*131@
-cub|1|cube!1^16#1*19@
-dat|1|data!9^27#1*83@
-div|1|divide!1^6#1*19@
-eve|1|even_numbers!1^31#1*19@
-fir|1|first_array!5^56#1*51@
-for|1|format_string!9^28#1*83@
-fru|2|fruits!15^36#1*131@fruits!17^37#1*147@
-hel|2|helloworld!1^23#1*19@hello!1^21#1*19@
-lis|2|list_mul_data_type!17^42#1*147@list_benefits!11^27#5*98@
-lot|1|lotsofhellos!1^27#1*19@
-mul|1|multiply!1^5#1*19@
-my_|3|my_function_with_args!11^13#5*98@my_list!17^8#1*147@my_function!11^2#5*98@
-myc|1|MyClass!13^3#7*113@
-myf|2|myfloat!3^24#1*35@MyFourthClass!13^48#7*113@
-myi|1|myint!3^2#1*35@
-myl|2|mylist!9^15#1*83@mylist!17^52#1*147@
-myo|2|myobjectx!13^10#1*115@myobjecty!13^26#1*115@
-mys|2|MySecondClass!13^19#7*113@mystring!3^30#1*35@
-myt|1|MyThirdClass!13^35#7*113@
-nam|4|name_the_benefits_of_functions!11^33#5*98@names!17^74#1*147@name!9^4#1*83@name!5^21#1*51@
-nes|1|nested_list!17^45#1*147@
-num|4|num!5^11#1*51@numbers!17^72#1*147@number!5^54#1*51@num!15^29#1*131@
-odd|1|odd_numbers!1^32#1*19@
-p|1|p!7^6#1*67@
-pho|1|phonebook!19^6#1*163@
-pri|2|printHi!11^7#5*98@primes!15^2#1*131@
-rem|1|remainder!1^7#1*19@
-s|1|s!7^44#1*67@
-sec|3|second_name!17^83#1*147@second_array!5^57#1*51@second_number!5^55#1*51@
-sqr|1|sqre!1^15#1*19@
-str|2|strings!17^73#1*147@str!7^2#1*67@
-sub|1|subtract!1^4#1*19@
-sum|3|sum_two_numbers!11^18#5*98@sum!1^3#1*19@sum!15^30#1*131@
-veh|1|Vehicle!13^81#7*113@
-wor|1|world!1^22#1*19@
-x|4|x!1^38#1*19@x!13^13#1*115@x!3^15#1*35@x!5^3#1*51@
-x_l|1|x_list!1^51#1*19@
-y|3|y!5^36#1*51@y!1^49#1*19@y!3^16#1*35@
-y_l|1|y_list!1^52#1*19@
-you|1|yourlist!17^62#1*147@
-z|1|z!3^17#1*35@
+86
+A|1|A!1^57#1*19@
+B|1|B!1^58#1*19@
+X|2|X!3^5#1*35@X!5^4#7*49@
+Y|1|Y!5^13#7*49@
+Z|1|Z!5^19#7*49@
+abs|1|Abs!7^4#7*65@
+ani|1|Animal!9^4#7*81@
+avg|1|avg!11^8#1*99@
+b|2|b!13^19#1*115@b!15^12#1*131@
+ban|1|bank_loan_emi!17^4#5*146@
+bas|1|Base!15^1#7*129@
+beg|1|beg!19^8#1*163@
+bir|1|Bird!21^1#7*177@
+bui|1|build_sentence!23^30#5*194@
+c|7|c!9^22#1*83@c!13^22#1*115@c!25^19#1*211@c!27^58#1*227@c!29^18#1*243@c!15^17#1*131@c!31^16#1*259@
+car|2|car1!27^90#1*227@car2!27^96#1*227@
+che|2|check_odd_number!23^47#5*194@check_even_number!23^41#5*194@
+chi|1|Child!15^6#7*129@
+cit|1|city!33^4#1*275@
+cla|13|classC!25^13#7*209@classB!31^5#7*257@classA!13^1#7*113@classC!13^9#7*113@classA!31^1#7*257@classB!13^5#7*113@classD!13^14#7*113@classA!25^1#7*209@classA!29^2#7*241@classC!31^10#7*257@classC!29^14#7*241@classB!25^7#7*209@classB!29^8#7*241@
+cou|4|count!35^3#1*291@counter!35^12#1*291@count!37^13#1*307@count!39^21#1*323@
+cow|1|Cow!9^15#7*81@
+d|1|d!13^25#1*115@
+dat|3|data!41^3#5*339@data!43^6#5*355@data!33^6#1*275@
+dup|1|duplicate!45^5#1*371@
+emp|4|emp!47^95#1*387@emp3!47^114#1*387@emp1!47^102#1*387@emp2!47^110#1*387@
+end|1|end!19^9#1*163@
+f|1|f!41^2#5*339@
+fac|2|factorial!49^3#5*402@fact!51^5#1*419@
+fib|1|fibonacci!53^3#5*434@
+fin|1|final!55^5#1*451@
+fir|1|first!39^4#1*323@
+fla|7|flag1!57^10#1*467@flag!45^14#5*371@flag!59^13#1*483@flag!61^10#1*499@flag!63^5#1*515@flag2!57^11#1*467@flag!19^7#1*163@
+fru|2|fruits!65^49#1*531@fruits!67^43#1*547@
+get|3|get_max_number!23^75#5*194@get_sum!23^73#5*194@get_min_number!23^77#5*194@
+hcf|1|hcf!69^8#1*563@
+hel|3|hello!23^91#5*194@hello_world!17^1#5*146@hello2!23^97#5*194@
+l1|1|l1!65^71#1*531@
+l2|1|l2!65^72#1*531@
+lcm|1|lcm!69^9#1*563@
+li|6|li!59^5#1*483@li!19^4#1*163@li!71^4#1*579@li!37^5#1*307@li!45^4#1*371@li!73^4#1*595@
+lis|6|list_benefits!23^27#5*194@list1!75^31#1*611@list1!67^95#1*547@list_mul_data_type!67^48#1*547@list2!67^100#1*547@list2!75^46#1*611@
+m|2|m!77^10#1*627@m!79^10#1*643@
+max|2|maxNum!61^9#1*499@max!73^12#1*595@
+mid|1|mid!19^12#5*163@
+min|1|min!73^13#1*595@
+my_|10|my_set_2!1^48#1*19@my_function!23^2#5*194@my_data!33^7#1*275@my_list!67^8#1*547@my_second_list!67^19#1*547@my_set2!1^11#1*19@my_set!1^2#1*19@my_function_with_args!23^13#5*194@my_tuple!75^2#1*611@my_set_3!1^53#1*19@
+myc|3|MyClass!27^3#7*225@myClass!7^16#7*65@myClass!81^1#7*657@
+myd|1|myDict!65^12#1*531@
+myf|2|myFirstList!39^3#1*323@MyFourthClass!27^48#7*225@
+myl|9|myList!73^3#1*595@myList!71^3#1*579@myList!59^4#1*483@mylist!67^57#1*547@myList!11^3#1*99@myList!45^3#1*371@myList!37^4#1*307@myList!65^81#1*531@mylist!1^46#1*19@
+myo|2|myobjectx!27^10#1*227@myobjecty!27^26#1*227@
+mys|3|mySet!65^7#1*531@mySecondList!39^12#1*323@MySecondClass!27^19#7*225@
+myt|3|myTuple!65^22#1*531@MyThirdClass!27^35#7*225@mytuple!1^51#1*19@
+n|25|n!83^9#1*675@n!85^9#1*691@n!87^9#1*707@n!89^9#1*723@n!91^9#1*739@n!93^9#1*755@n!95^9#1*771@n!97^9#1*787@n!99^12#1*803@n!101^13#1*819@n!103^13#1*835@n!105^13#1*851@n!107^13#1*867@n!109^13#1*883@n!111^4#1*899@n!79^9#1*643@n!113^13#1*915@n!77^9#1*627@n!115^6#1*931@n!117^9#1*947@n!119^4#1*963@n!121^13#1*979@n!123^9#1*995@n!125^9#1*1011@n!127^9#1*1027@
+n1|3|n1!69^4#1*563@n1!57^7#1*467@n1!61^6#1*499@
+n2|3|n2!61^7#1*499@n2!69^5#1*563@n2!57^8#1*467@
+nam|3|name_the_benefits_of_functions!23^33#5*194@names!67^78#1*547@name!33^2#1*275@
+nes|3|nested_list!67^51#1*547@nested_set!1^43#1*19@nested_tuple!75^18#1*611@
+num|19|num!19^6#1*163@num!129^2#1*1043@num!131^4#1*1059@num!133^3#1*1075@num!53^8#1*435@num!59^15#1*483@num!51^3#1*419@num1!135^7#5*1091@num!137^6#1*1107@num!139^3#1*1123@num!65^42#1*531@num!55^3#1*451@num!49^7#1*403@num!141^3#1*1139@num!143^11#1*1155@num!63^3#1*515@num2!135^8#5*1091@num!35^10#1*291@numbers!67^76#1*547@
+obj|4|obj!81^18#1*659@obj!5^23#1*51@obj!21^7#1*179@obj!7^22#1*67@
+out|1|output!145^7#1*1171@
+p|1|p!103^14#1*835@
+pho|2|phone!33^3#1*275@phonebook!47^6#1*387@
+pri|4|primes!65^2#1*531@print_name!23^66#5*194@print_names!23^84#5*194@printHi!23^7#5*194@
+pro|1|product!69^7#1*563@
+q|1|q!103^15#1*835@
+quo|1|quotient!135^9#5*1091@
+rem|3|rem!137^12#5*1107@rem!55^9#5*451@rem!133^9#5*1075@
+res|3|result!23^58#1*195@result!3^9#1*35@result!145^4#1*1171@
+s|1|s!101^15#1*819@
+sec|2|second!39^13#1*323@second_name!67^87#1*547@
+set|3|set2!1^17#1*19@set1!1^15#1*19@set1!75^35#1*611@
+sq|1|sq!145^3#1*1171@
+str|1|strings!67^77#1*547@
+sum|10|sum!133^5#1*1075@sum!65^43#1*531@sum_of_digits!143^3#5*1154@sum!137^8#1*1107@sum!139^7#1*1123@sum!111^6#1*899@sum!11^4#1*99@sum!35^11#1*291@sum!131^6#1*1059@sum_two_numbers!23^18#5*194@
+t|4|t!115^8#1*931@t!119^6#1*963@t!9^19#1*83@t!101^14#1*819@
+t1|2|t1!65^78#1*531@t1!139^5#1*1123@
+t2|2|t2!65^79#1*531@t2!139^6#1*1123@
+t3|1|t3!65^80#1*531@
+tem|5|temp!133^6#1*1075@temp!55^6#1*451@temp!51^6#1*419@temp!137^9#1*1107@temp!71^15#13*579@
+tig|1|Tiger!9^10#7*81@
+tup|4|tup3!75^42#1*611@tup1!75^28#1*611@tup4!75^51#1*611@tup2!75^40#1*611@
+veh|1|Vehicle!27^81#7*225@
+x|1|x!27^13#1*227@
+you|1|yourlist!67^66#1*547@
 -- END TREE
 -- START TREE 2
-10
-__i|1|__init__!21&13^51#9*114@
-age|1|age!22&13^53#9*115@
-col|1|color!23&13^84#5*115@
-des|1|description!23&13^86#9*114@
-fun|3|function!24&13^6#9*114@function!25&13^22#9*114@function!26&13^38#9*114@
-kin|1|kind!23&13^83#5*115@
-nam|3|name!21&13^49#5*115@name!22&13^52#9*115@name!23&13^82#5*115@
-sum|1|sum!21&13^55#9*114@
-val|1|value!23&13^85#5*115@
-var|3|variable!24&13^4#5*115@variable!25&13^20#5*115@variable!26&13^36#5*115@
+23
+__e|2|__empid!147&81^3#5*659@__empid!148&81^12#9*659@
+__i|5|__init__!149&7^6#9*66@__init__!150&27^51#9*226@__init__!151&31^2#9*258@__init__!152&31^6#9*258@__init__!153&31^11#9*258@
+__m|1|__method2!147&81^8#9*658@
+a|1|a!147&81^2#5*659@
+add|2|add!149&7^9#9*66@add!147&7^17#9*66@
+age|2|age!154&27^53#9*227@age!155&15^7#5*131@
+bas|1|base_method!156&15^3#9*130@
+chi|1|child_method!155&15^8#9*130@
+col|1|color!157&27^84#5*227@
+des|1|description!157&27^86#9*226@
+eat|3|eat!158&9^6#9*82@eat!159&9^11#9*82@eat!160&9^16#9*82@
+fly|1|fly!161&21^2#9*178@
+fun|3|function!162&27^6#9*226@function!163&27^22#9*226@function!164&27^38#9*226@
+get|1|get_emp_id!147&81^14#9*658@
+hel|9|hello!151&13^2#9*114@hello!152&13^6#9*114@hello!153&13^10#9*114@hello!165&13^15#9*114@hello!151&29^5#9*242@hello!152&29^11#9*242@hello!151&25^4#9*210@hello!152&25^10#9*210@hello!153&25^16#9*210@
+kin|1|kind!157&27^83#5*227@
+met|11|method_A!151&29^3#9*242@method_A!151&25^2#9*210@method_C!153&25^14#9*210@method1!147&81^5#9*658@method_B!152&29^9#9*242@method2!166&5^9#9*50@method2!167&5^20#9*50@method1!166&5^6#9*50@method1!168&5^14#9*50@method_B!152&25^8#9*210@method_C!153&29^15#9*242@
+nam|4|name!150&27^49#5*227@name!154&27^52#9*227@name!157&27^82#5*227@name!156&15^2#5*131@
+set|1|set_emp_id!147&81^11#9*658@
+sub|2|sub!149&7^12#9*66@sub!147&7^19#9*66@
+sum|1|sum!150&27^55#9*226@
+val|2|value!157&27^85#5*227@value!169&7^7#9*67@
+var|3|variable!162&27^4#5*227@variable!163&27^20#5*227@variable!164&27^36#5*227@
 -- END TREE

@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pydev-testrun version="1.0"?><pydev-testsuite>
-<summary errors="0" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="Finished in: 0.00 secs."/>
+<summary errors="0" failures="0" finished="true" name="Test Run: 44" tests="6" total_time="Finished in: 48.49 secs."/>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPytest\conf_test\test_params.py" status="ok" test="Test_Orange_HRM.test_login[chrome-Admin-admin123]" time="7.83">
+<stdout><![CDATA[
+Looking for [chromedriver 86.0.4240.22 win32] driver in cache 
+File found in cache by path [C:\Users\APPAN\.wdm\drivers\chromedriver\86.0.4240.22\win32\chromedriver.exe]
+]]></stdout>
+<stderr/>
+</test>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPytest\conf_test\test_params.py" status="ok" test="Test_Orange_HRM.test_login[chrome-Admin1-admin123]" time="2.04">
+<stdout/>
+<stderr/>
+</test>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPytest\conf_test\test_params.py" status="ok" test="Test_Orange_HRM.test_login[chrome-Admin2-admin123]" time="1.86">
+<stdout/>
+<stderr/>
+</test>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPytest\conf_test\test_params.py" status="ok" test="Test_Orange_HRM.test_login[firefox-Admin-admin123]" time="12.06">
+<stdout><![CDATA[
+Looking for [geckodriver v0.28.0 win64] driver in cache 
+File found in cache by path [C:\Users\APPAN\.wdm\drivers\geckodriver\v0.28.0\win64\geckodriver.exe]
+]]></stdout>
+<stderr/>
+</test>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPytest\conf_test\test_params.py" status="ok" test="Test_Orange_HRM.test_login[firefox-Admin1-admin123]" time="1.38">
+<stdout/>
+<stderr/>
+</test>
+<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnPytest\conf_test\test_params.py" status="ok" test="Test_Orange_HRM.test_login[firefox-Admin2-admin123]" time="1.29">
+<stdout/>
+<stderr/>
+</test>
 <launch mode="run">
 <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<launchConfiguration local="true" path="LearnPython Lists.py (1)"/>
+<launchConfiguration local="true" path="LearnPytest test_params.py"/>
 ]]></launch_memento>
 </launch>
 </pydev-testsuite>
