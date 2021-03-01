@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import unittest
 import HtmlTestRunner
-from openpyxl.styles.builtins import output
 
 
 class GoogleSearch(unittest.TestCase):

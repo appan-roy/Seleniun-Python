@@ -14,7 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="keywords" content="Archived, old, closed, suspended, shutdown, closed"/>
     <link rel="shortcut icon" href="/eclipse.org-common/themes/solstice/public/images/favicon.ico"/>
     <title>Archived Projects | The Eclipse Foundation</title>
-    <link rel="stylesheet" href="/eclipse.org-common/themes/solstice/public/stylesheets/quicksilver.min.css?v0.130"/>
+    <link rel="stylesheet" href="/eclipse.org-common/themes/solstice/public/stylesheets/quicksilver.min.css?v0.143"/>
 <meta name="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 375 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 375 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-200x200.png"/>
@@ -112,6 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="http://archive.eclipse.org/archived_projects/alf.tgz">ALF</a> project.  Archived: January 2009</p>
         <p><a href="http://archive.eclipse.org/archived_projects/albireo.tgz">Albireo</a> project.  Archived: January 2011</p>
         <p><a href="http://archive.eclipse.org/archived_projects/am3.tgz">AM3</a> project.  Archived: November 2012</p>
+        <p><a href="http://archive.eclipse.org/archived_projects/antenna.tgz">Antenna</a> project.  Archived: February 2021</p>
         <p><a href="http://archive.eclipse.org/archived_projects/apricot.tgz">Apricot</a> project.  Archived: August 2019</p>
         <p><a href="http://archive.eclipse.org/archived_projects/apogee.tgz">Apogee</a> project.  Archived: January 2011</p>
         <p><a href="http://archive.eclipse.org/archived_projects/atf.tgz">ATF</a> project.  Archived: May 2020</p>
@@ -146,6 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="http://archive.eclipse.org/archived_projects/gyrex.tgz">gyrex</a> project.  Archived: March 2018</p>
         <p><a href="http://archive.eclipse.org/archived_projects/hibachi.tgz">Hibachi</a> project.  Archived: January 2011</p>
         <p><a href="http://archive.eclipse.org/archived_projects/hip.tgz">Hip</a> project.  Archived: August 2019</p>
+        <p><a href="http://archive.eclipse.org/archived_projects/hudson.tgz">Hudson</a> project.  Archived: February 2021</p>
         <p><a href="http://archive.eclipse.org/archived_projects/iam.tgz">Iam</a> project.  Archived: January 2012</p>
         <p><a href="http://archive.eclipse.org/archived_projects/incquery.tgz">Incquery</a> project.  Archived: February 2016</p>
         <p><a href="http://archive.eclipse.org/archived_projects/imm.tgz">IMM</a> project.  Archived: January 2015</p>
@@ -241,7 +243,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           
                   </ul>
       </aside>
-</div></div>
+  </div></div>
         </div>
       </main><p id="back-to-top">
   <a class="visible-xs" href="#top">Back to the top</a>
@@ -264,7 +266,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-sm-24 margin-top-20">
         <div class="row">
           <div id="copyright" class="col-md-16">
-            <p id="copyright-text">Copyright &copy; Eclipse Foundation, Inc. All Rights Reserved.</p>
+            <p id="copyright-text">Copyright &copy; Eclipse Foundation. All Rights Reserved.</p>
           </div>
           <div class="col-md-8 social-media">
             <ul class="list-inline">
@@ -300,7 +302,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </footer>
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/eclipse.org-common/themes/solstice/public/javascript/main.min.js?var=0.0.130"></script>
+<script src="/eclipse.org-common/themes/solstice/public/javascript/main.min.js?var=0.0.143"></script>
 
 </body>
 </html>

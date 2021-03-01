@@ -11,4 +11,3 @@ driver.get("https://www.google.co.in/")
 time.sleep(2)
  
 driver.quit()
-

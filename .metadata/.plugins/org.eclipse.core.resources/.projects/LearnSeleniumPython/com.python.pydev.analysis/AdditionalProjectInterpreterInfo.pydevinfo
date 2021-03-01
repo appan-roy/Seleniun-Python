@@ -1,58 +1,164 @@
 -- VERSION_5
 -- START DISKCACHE_2
 E:\Softwares\My PC Apps\Selenium Python\Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\LearnSeleniumPython\com.python.pydev.analysis\v2_indexcache
-webdrivermanagerDemo.WebDriverManagerFirefox|1573316807334598000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerFirefox.py
-testBrowsersDemo.__init__|1573309612425837000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\__init__.py
-webdrivermanagerDemo.WebDriverManagerChrome|1573316727534034000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerChrome.py
-testBrowsersDemo.InternetExplorerTest|1573312960403817000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\InternetExplorerTest.py
-testBrowsersDemo.ChromeTest|1573314685907260000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\ChromeTest.py
-pyTestDemo.__init__|1573321610439370000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\__init__.py
+popupDemo.__init__|1613991092345365000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\popupDemo\__init__.py
+webElementsDemo.FramesHandling|1613848231436174000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\FramesHandling.py
+webdrivermanagerDemo.WebDriverManagerFirefox|1614004922902259000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerFirefox.py
+headlessDemo.__init__|1613896685913105000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\headlessDemo\__init__.py
+webdrivermanagerDemo.WebDriverManagerChrome|1614004911400601000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerChrome.py
+cookiesDemo.CookiesHandling|1614001238709535000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\cookiesDemo\CookiesHandling.py
 webdrivermanagerDemo.__init__|1573315888889066000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\__init__.py
+browserActionsDemo.NavigationAndRefresh|1613996377104467000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\browserActionsDemo\NavigationAndRefresh.py
 pyTestDemo.test_login|1573323518104095000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login.py
 pyTestDemo.test_login_fixtures|1606803890315237000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login_fixtures.py
+alertsDemo.__init__|1613990969280327000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\alertsDemo\__init__.py
 recordingDemo.__init__|1573320696901185000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\recordingDemo\__init__.py
-unitTestDemo.UnitTest|1573320431661834000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py
-unitTestDemo.__init__|1573316913910694000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\__init__.py
+utility.__init__|1613897068706999000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\utility\__init__.py
+dataScraping.AmazonDataScraping|1613845402839387000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\dataScraping\AmazonDataScraping.py
+webElementsDemo.WebElementsHandling|1613840914474668000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\WebElementsHandling.py
+jseActionsDemo.JavaScriptExecutor|1614016957345590000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\jseActionsDemo\JavaScriptExecutor.py
+synchronizationDemo.ImplicitlyWait|1614005046364320000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\synchronizationDemo\ImplicitlyWait.py
 recordingDemo.TestRecording|1573321131984004000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\recordingDemo\TestRecording.py
+utility.DateUtils|1613898727120855000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\utility\DateUtils.py
+dataScraping.__init__|1613841371700819000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\dataScraping\__init__.py
+webElementsDemo.MouseOverHandling|1613987541895291000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\MouseOverHandling.py
+synchronizationDemo.__init__|1614001538105660000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\synchronizationDemo\__init__.py
+popupDemo.AuthPopupHandling|1613995182656149000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\popupDemo\AuthPopupHandling.py
+testBrowsersDemo.__init__|1573309612425837000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\__init__.py
+browserActionsDemo.__init__|1613996165044338000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\browserActionsDemo\__init__.py
+testBrowsersDemo.InternetExplorerTest|1573312960403817000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\InternetExplorerTest.py
+synchronizationDemo.ExplicitWait|1614008860575481000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\synchronizationDemo\ExplicitWait.py
+logFileDemo.GenerateLogFile|1614019488203346000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\logFileDemo\GenerateLogFile.py
+jseActionsDemo.__init__|1614010502515394000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\jseActionsDemo\__init__.py
+testBrowsersDemo.ChromeTest|1573314685907260000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\ChromeTest.py
+pyTestDemo.__init__|1573321610439370000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\__init__.py
+headlessDemo.HeadlessChrome|1613897891845080000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\headlessDemo\HeadlessChrome.py
+multipleWindowsDemo.WindowsHandling|1613902213862285000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\multipleWindowsDemo\WindowsHandling.py
+multipleWindowsDemo.__init__|1613991042250500000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\multipleWindowsDemo\__init__.py
+webElementsDemo.DragAndDropIndirect|1613988680479415000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\DragAndDropIndirect.py
+webElementsDemo.RightClickHandling|1613989844283980000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\RightClickHandling.py
+fileUploadDemo.FileUpload|1613995442339002000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\fileUploadDemo\FileUpload.py
+unitTestDemo.UnitTest|1614229081308540000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py
+webElementsDemo.__init__|1613823931569898000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\__init__.py
+webElementsDemo.DragAndDropDirect|1613988560463550000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\DragAndDropDirect.py
+fileUploadDemo.__init__|1613995201926251000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\fileUploadDemo\__init__.py
+unitTestDemo.__init__|1573316913910694000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\__init__.py
+alertsDemo.AlertsHandling|1613900682435693000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\alertsDemo\AlertsHandling.py
+cookiesDemo.__init__|1613996427863370000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\cookiesDemo\__init__.py
+logFileDemo.__init__|1614018479641660000|E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\logFileDemo\__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
-20
-19=GoogleSearch
-20=TestSample
-4=webdrivermanagerDemo.WebDriverManagerFirefox
-11=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login.py
-7=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\ChromeTest.py
-1=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerChrome.py
-2=webdrivermanagerDemo.WebDriverManagerChrome
-6=testBrowsersDemo.InternetExplorerTest
-15=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\recordingDemo\TestRecording.py
-8=testBrowsersDemo.ChromeTest
-5=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\InternetExplorerTest.py
-12=pyTestDemo.test_login
-14=pyTestDemo.test_login_fixtures
-10=unitTestDemo.UnitTest
-17=TestCaseRecording.setUp
-3=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerFirefox.py
-18=TestCaseRecording
-9=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py
-13=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login_fixtures.py
-16=recordingDemo.TestRecording
+58
+33=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\browserActionsDemo\NavigationAndRefresh.py
+9=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\MouseOverHandling.py
+40=webElementsDemo.FramesHandling
+30=webdrivermanagerDemo.WebDriverManagerFirefox
+53=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login.py
+11=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\synchronizationDemo\ExplicitWait.py
+19=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\cookiesDemo\CookiesHandling.py
+28=webdrivermanagerDemo.WebDriverManagerChrome
+34=browserActionsDemo.NavigationAndRefresh
+36=dataScraping.AmazonDataScraping
+1=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\jseActionsDemo\JavaScriptExecutor.py
+2=jseActionsDemo.JavaScriptExecutor
+52=recordingDemo.TestRecording
+7=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\RightClickHandling.py
+22=popupDemo.AuthPopupHandling
+27=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerChrome.py
+25=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\synchronizationDemo\ImplicitlyWait.py
+35=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\dataScraping\AmazonDataScraping.py
+24=headlessDemo.HeadlessChrome
+39=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\FramesHandling.py
+55=TestCaseRecording.setUp
+29=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webdrivermanagerDemo\WebDriverManagerFirefox.py
+6=webElementsDemo.DragAndDropDirect
+49=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\pyTestDemo\test_login_fixtures.py
+5=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\DragAndDropDirect.py
+58=TestSample
+51=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\recordingDemo\TestRecording.py
+20=cookiesDemo.CookiesHandling
+50=pyTestDemo.test_login_fixtures
+54=pyTestDemo.test_login
+13=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\alertsDemo\AlertsHandling.py
+18=webElementsDemo.WebElementsHandling
+26=synchronizationDemo.ImplicitlyWait
+56=TestCaseRecording
+45=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\unitTestDemo\UnitTest.py
+43=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\utility\DateUtils.py
+47=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\logFileDemo\GenerateLogFile.py
+44=utility.DateUtils
+15=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\multipleWindowsDemo\WindowsHandling.py
+17=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\WebElementsHandling.py
+10=webElementsDemo.MouseOverHandling
+57=GoogleSearch
+41=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\ChromeTest.py
+12=synchronizationDemo.ExplicitWait
+38=testBrowsersDemo.InternetExplorerTest
+48=logFileDemo.GenerateLogFile
+42=testBrowsersDemo.ChromeTest
+16=multipleWindowsDemo.WindowsHandling
+31=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\fileUploadDemo\FileUpload.py
+37=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\testBrowsersDemo\InternetExplorerTest.py
+21=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\popupDemo\AuthPopupHandling.py
+4=webElementsDemo.DragAndDropIndirect
+8=webElementsDemo.RightClickHandling
+32=fileUploadDemo.FileUpload
+46=unitTestDemo.UnitTest
+14=alertsDemo.AlertsHandling
+3=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\webElementsDemo\DragAndDropIndirect.py
+23=E:\Softwares\My PC Apps\Selenium Python\Workspace\LearnSeleniumPython\headlessDemo\HeadlessChrome.py
 -- END DICTIONARY
 -- START TREE 1
-3
-dri|4|driver!1^7#1*19@driver!3^7#1*35@driver!5^5#1*51@driver!7^4#1*67@
-goo|1|GoogleSearch!9^8#7*81@
-tes|5|test_login!11^18#5*98@test_teardown!11^32#5*98@TestSample!13^9#7*113@TestCaseRecording!15^9#7*129@test_setup!11^8#5*98@
+39
+abo|1|about_us_link!1^27#1*19@
+act|4|act_chains!3^17#1*35@act_chains!5^17#1*51@act_chains!7^13#1*67@act_chains!9^18#1*83@
+adm|1|admin_ele!9^21#1*83@
+ale|2|alert!11^27#1*99@alert!13^14#1*115@
+bes|1|best_sellers_link!1^36#1*19@
+chi|1|child_windows!15^21#1*131@
+cnf|1|cnf_text!17^74#1*147@
+dat|1|dates!17^57#5*147@
+dri|21|driver!7^7#1*67@driver!19^5#1*163@driver!21^5#1*179@driver!23^11#1*195@driver!3^7#1*35@driver!25^4#1*211@driver!15^6#1*131@driver!27^7#1*227@driver!29^7#1*243@driver!31^5#1*259@driver!11^7#1*99@driver!13^6#1*115@driver!33^5#1*275@driver!35^7#1*291@driver!9^7#1*83@driver!1^6#1*19@driver!17^7#1*147@driver!5^7#1*51@driver!37^5#1*307@driver!39^6#1*323@driver!41^4#1*339@
+fin|1|final_list!35^29#1*291@
+foo|1|footer_links!11^32#1*99@
+get|1|get_current_timestamp!43^3#5*354@
+goo|1|GoogleSearch!45^7#7*369@
+hom|1|homepage_text!17^14#1*147@
+inn|0|
+log|2|logger!47^8#1*387@login_btn_ele!25^22#1*211@
+mem|0|
+new|1|new_acct_link!11^41#1*99@
+opt|1|opt!23^9#1*195@
+par|1|parent_window!15^14#1*131@
+pas|1|password_text!17^23#1*147@
+pho|3|phone_names!35^20#1*291@phones!35^17#1*291@phone_prices!35^21#1*291@
+pri|1|prices!35^18#1*291@
+pwd|1|pwd_ele!25^18#1*211@
+rem|1|remember_chkbx!11^37#1*99@
+rig|2|right_click_options!7^18#1*67@right_click_ele!7^15#1*67@
+s|0|
+sea|1|searchbox!1^14#1*19@
+she|1|sheet!35^33#1*291@
+sig|1|signin_btn!11^23#1*99@
+spi|0|
+src|2|src!5^14#1*51@src!3^14#1*35@
+tes|5|TestSample!49^9#7*401@TestCaseRecording!51^9#7*417@test_login!53^18#5*434@test_setup!53^8#5*434@test_teardown!53^32#5*434@
+tgt|2|tgt!5^15#1*51@tgt!3^15#1*35@
+tit|1|title!1^45#1*19@
+una|2|uname_txtbx!11^18#1*99@uname_ele!25^14#1*211@
+use|3|username_text!17^22#1*147@user_mgmt_ele!9^25#1*83@users_ele!9^29#1*83@
+wai|1|wait!11^15#1*99@
+wb|1|wb!35^31#1*291@
 -- END TREE
 -- START TREE 2
 9
-acc|1|accept_next_alert!17&15^15#9*131@
-bas|1|base_url!17&15^13#9*131@
-clo|1|close_alert_and_get_its_text!18&15^40#9*130@
-dri|1|driver!17&15^11#9*131@
-is_|2|is_element_present!18&15^30#9*130@is_alert_present!18&15^35#9*130@
-set|2|setUpClass!19&9^11#9*82@setUp!18&15^10#9*130@
-tea|2|tearDown!18&15^51#9*130@tearDownClass!19&9^42#9*82@
-tes|5|test_search_Selenium!19&9^23#9*82@test_search_Python!19&9^33#9*82@test_setup!20&13^12#9*114@test_login!20&13^29#9*114@test_case_recording!18&15^17#9*130@
-ver|1|verificationErrors!17&15^14#9*131@
+acc|1|accept_next_alert!55&51^15#9*419@
+bas|1|base_url!55&51^13#9*419@
+clo|1|close_alert_and_get_its_text!56&51^40#9*418@
+dri|1|driver!55&51^11#9*419@
+is_|2|is_element_present!56&51^30#9*418@is_alert_present!56&51^35#9*418@
+set|2|setUp!56&51^10#9*418@setUpClass!57&45^10#9*370@
+tea|2|tearDown!56&51^51#9*418@tearDownClass!57&45^41#9*370@
+tes|5|test_search_Selenium!57&45^22#9*370@test_search_Python!57&45^32#9*370@test_setup!58&49^12#9*402@test_login!58&49^29#9*402@test_case_recording!56&51^17#9*418@
+ver|1|verificationErrors!55&51^14#9*419@
 -- END TREE

@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pydev-testrun version="1.0"?><pydev-testsuite>
-<summary errors="0" failures="0" finished="true" name="Test Run: 45" tests="6" total_time="Finished in: 27.48 secs."/>
-<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\PytestPOM\Tests\test_LoginPage.py" status="ok" test="Test_Login.test_forgot_pwd_link_visible[chrome]" time="7.28">
-<stdout><![CDATA[
-Looking for [chromedriver 86.0.4240.22 win32] driver in cache 
-File found in cache by path [C:\Users\APPAN\.wdm\drivers\chromedriver\86.0.4240.22\win32\chromedriver.exe]
-]]></stdout>
-<stderr/>
-</test>
-<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\PytestPOM\Tests\test_LoginPage.py" status="ok" test="Test_Login.test_login_page_title[chrome]" time="1.48">
-<stdout/>
-<stderr/>
-</test>
-<test location="E:\Softwares\My PC Apps\Selenium Python\Workspace\PytestPOM\Tests\test_LoginPage.py" status="ok" test="Test_Login.test_login[chrome]" time="8.03">
-<stdout/>
-<stderr/>
-</test>
+<summary errors="0" failures="0" finished="true" name="Test Run: 57" tests="12" total_time="Finished in: 7.69 secs."/>
 <launch mode="run">
 <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<launchConfiguration local="true" path="PytestPOM test_LoginPage.py"/>
+<launchConfiguration local="true" path="PytestPOM test_LoginLogout.py"/>
 ]]></launch_memento>
 </launch>
 </pydev-testsuite>
